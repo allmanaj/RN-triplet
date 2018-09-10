@@ -1,0 +1,3 @@
+rootProject.name = 'YearLong'
+
+include ':app'
